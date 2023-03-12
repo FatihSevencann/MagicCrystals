@@ -1772,7 +1772,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0.16, y: 0.609, z: -84.089}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.65000004, y: 0.68}
-  m_AnchoredPosition: {x: 1.4485998, y: -42.1495}
+  m_AnchoredPosition: {x: 1.4485998, y: -42.149506}
   m_SizeDelta: {x: 132.0286, y: 4.748}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1337184939
@@ -2086,7 +2086,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.16310593, y: 0.5856407}
   m_AnchorMax: {x: 0.84981626, y: 0.6995595}
-  m_AnchoredPosition: {x: 5.65329, y: 8}
+  m_AnchoredPosition: {x: 5.6532593, y: 8}
   m_SizeDelta: {x: -445.983, y: -156.2034}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1467523935
@@ -2434,15 +2434,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 17faec7680ba87443bfcdd13742b92ac, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ObjMsc: {fileID: 0}
-  MainMusic: {fileID: 0}
-  Voice: {fileID: 0}
-  mergeVoice: {fileID: 0}
   GameOverText: {fileID: 0}
   YouWonPanel: {fileID: 0}
   GameOverPanel: {fileID: 0}
+  GamePanel: {fileID: 0}
+  Homepanel: {fileID: 644128693}
   SettingsPanel: {fileID: 1605952633}
-  HomePanel: {fileID: 644128693}
+  MainMusic: {fileID: 0}
+  Voice: {fileID: 0}
+  mergeVoice: {fileID: 0}
+  voice: {fileID: 0}
 --- !u!1 &1582022821
 GameObject:
   m_ObjectHideFlags: 0

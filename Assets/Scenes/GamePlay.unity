@@ -5879,8 +5879,8 @@ MonoBehaviour:
   BubbleText: {fileID: 88324578}
   OnecrystalText: {fileID: 1226885775}
   TwocrystalText: {fileID: 2044745746}
-  OneCrystalNext: {fileID: 1672679926}
   TwoCrystalNext: {fileID: 193996881}
+  OneCrystalNext: {fileID: 1672679926}
   OnecrystalImage: {fileID: 1841262133}
   TwocrystalImage: {fileID: 107994843}
   OneCrystalSpriteNext: {fileID: 770185256}
@@ -5955,15 +5955,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 17faec7680ba87443bfcdd13742b92ac, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ObjMsc: {fileID: 0}
-  MainMusic: {fileID: 0}
-  Voice: {fileID: 539220477}
-  mergeVoice: {fileID: 8300000, guid: 5262b408b37c62349914e504efc26a95, type: 3}
   GameOverText: {fileID: 1660363200}
   YouWonPanel: {fileID: 1543453717}
   GameOverPanel: {fileID: 122257954}
+  GamePanel: {fileID: 539220473}
+  Homepanel: {fileID: 0}
   SettingsPanel: {fileID: 0}
-  HomePanel: {fileID: 0}
+  MainMusic: {fileID: 0}
+  Voice: {fileID: 539220477}
+  mergeVoice: {fileID: 8300000, guid: 5262b408b37c62349914e504efc26a95, type: 3}
+  voice: {fileID: 0}
 --- !u!82 &1683571107
 AudioSource:
   m_ObjectHideFlags: 0

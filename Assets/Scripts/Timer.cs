@@ -1,11 +1,11 @@
-using DefaultNamespace;
+
 using UnityEngine;
 using UnityEngine.UI;
 public class Timer : MonoBehaviour
 {
    [SerializeField] private GameObject GameOverPanel;
    [SerializeField] private Text timerText;
-    private int LevelCount = GameManager.levelCount;
+    private int LevelCount = GameManager.LevelCount;
     private float startTime;
     [SerializeField] private float time = 120;
 
