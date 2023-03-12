@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/HomeScene.unity
+    guid: cc804e4cb5806d042ac381c62e17ed12
+  - enabled: 1
+    path: Assets/Scenes/TrainScene.unity
+    guid: 903c3d3a20cb7ec41ac8bc1fab2c797f
+  - enabled: 1
+    path: Assets/Scenes/GamePlay.unity
+    guid: c4ffaa77429d6ca4cab5fb376ab897ce
+  - enabled: 0
+    path: Assets/Scenes/Settings.unity
+    guid: 97ebf9c4f325f4c49ae4947325d598b9
+  m_configObjects: {}
