@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: ac149aa48a4d85249aec567323d6dce1
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Riffic
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: efbbbfef6bf92e74787e04d3a03d7d16, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
